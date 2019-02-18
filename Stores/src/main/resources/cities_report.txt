@@ -1,0 +1,10 @@
+Sofia
+Number of purchases: 22
+Total amount of purchases: 1043,45
+AVG amount of purchases: 47,43
+
+Plovdiv
+Number of purchases: 7
+Total amount of purchases: 221,91
+AVG amount of purchases: 31,70
+

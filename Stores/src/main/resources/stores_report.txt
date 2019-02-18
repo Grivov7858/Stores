@@ -1,0 +1,15 @@
+Store 1, Sofia
+Number of purchases: 12
+Total amount of purchases: 661,25
+AVG amount of purchases: 55,10
+
+Store 2, Sofia
+Number of purchases: 10
+Total amount of purchases: 382,20
+AVG amount of purchases: 38,22
+
+Store 3, Plovdiv
+Number of purchases: 7
+Total amount of purchases: 221,91
+AVG amount of purchases: 31,70
+
